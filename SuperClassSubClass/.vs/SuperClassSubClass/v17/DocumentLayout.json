@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\The-Tech-Academy-CPlusPlus-and-Unreal-Engine-Projects\\SuperClassSubClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5706A1A-F107-4F33-8366-05FD2654A007}|SuperClassSubClass\\SuperClassSubClass.vcxproj|C:\\Users\\Owner\\OneDrive\\Desktop\\The-Tech-Academy-CPlusPlus-and-Unreal-Engine-Projects\\SuperClassSubClass\\SuperClassSubClass\\SuperClassSubClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5706A1A-F107-4F33-8366-05FD2654A007}|SuperClassSubClass\\SuperClassSubClass.vcxproj|solutionrelative:SuperClassSubClass\\SuperClassSubClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SuperClassSubClass.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\OneDrive\\Desktop\\The-Tech-Academy-CPlusPlus-and-Unreal-Engine-Projects\\SuperClassSubClass\\SuperClassSubClass\\SuperClassSubClass.cpp",
+              "RelativeDocumentMoniker": "SuperClassSubClass\\SuperClassSubClass.cpp",
+              "ToolTip": "C:\\Users\\Owner\\OneDrive\\Desktop\\The-Tech-Academy-CPlusPlus-and-Unreal-Engine-Projects\\SuperClassSubClass\\SuperClassSubClass\\SuperClassSubClass.cpp",
+              "RelativeToolTip": "SuperClassSubClass\\SuperClassSubClass.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-17T14:01:48.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
